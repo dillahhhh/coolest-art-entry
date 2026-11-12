@@ -6,7 +6,7 @@ with a pagoda, a torii gate and lanterns. The program copies it to
 /output/entry.png.
 
 The gate accepts a PNG or a JPEG at /output/entry.png, told apart by its
-first bytes; the name stays entry.png either way. The file is a whole JPEG of 365912 bytes and 1024 by 576 pixels, inside
+first bytes; the name stays entry.png either way. The file is a whole JPEG of 336112 bytes and 1024 by 576 pixels, inside
 the 1 MiB and 1024 by 1024 limits.
 
 Deterministic: no network, no randomness, no clock. It copies the same
